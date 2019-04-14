@@ -12,6 +12,7 @@
 		33BB9AAE2262EB9100C03886 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33BB9AAC2262EB9100C03886 /* Main.storyboard */; };
 		33BB9AB02262EB9300C03886 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33BB9AAF2262EB9300C03886 /* Assets.xcassets */; };
 		33BB9AB32262EB9300C03886 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33BB9AB12262EB9300C03886 /* LaunchScreen.storyboard */; };
+		33BB9ABB2262EFD200C03886 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33BB9ABA2262EFD200C03886 /* SharpImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		33BB9AAF2262EB9300C03886 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33BB9AB22262EB9300C03886 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		33BB9AB42262EB9300C03886 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33BB9ABA2262EFD200C03886 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				33BB9AA82262EB9100C03886 /* AppDelegate.swift */,
 				33BB9AAA2262EB9100C03886 /* ViewController.swift */,
 				33BB9AAC2262EB9100C03886 /* Main.storyboard */,
+				33BB9ABA2262EFD200C03886 /* SharpImageView.swift */,
 				33BB9AAF2262EB9300C03886 /* Assets.xcassets */,
 				33BB9AB12262EB9300C03886 /* LaunchScreen.storyboard */,
 				33BB9AB42262EB9300C03886 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33BB9AAB2262EB9100C03886 /* ViewController.swift in Sources */,
+				33BB9ABB2262EFD200C03886 /* SharpImageView.swift in Sources */,
 				33BB9AA92262EB9100C03886 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
